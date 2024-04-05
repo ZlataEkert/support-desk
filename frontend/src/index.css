@@ -162,8 +162,8 @@ h3 {
 }
 
 .btn-block {
-  width: 100%;
-  margin-bottom: 20px;
+  width: 50%;
+  margin: 20px auto
 }
 
 .btn-sm {
